@@ -1,2 +1,1 @@
-# Redirect_attack
- 
+# WebXSSAttackDemo
