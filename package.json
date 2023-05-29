@@ -1,19 +1,14 @@
 {
-  "name": "websec",
+  "name": "nodejs-open-redirect",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example app to learn about open redirect vulnerability",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index_2"
-  },
-  "keywords": [],
-  "author": "",
+  "scripts": {},
+  "author": "Me",
   "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.6",
-    "cookieparser": "^0.1.0",
     "express": "^4.18.2",
-    "nodemon": "^2.0.22"
+    "express-session": "^1.17.2",
+    "pug": "^3.0.2"
   }
 }
